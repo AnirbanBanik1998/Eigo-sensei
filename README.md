@@ -1,6 +1,6 @@
 # [Eigo Sensei](http://www.adlyloukil.jp)
 
-Simple Index page about Adly created by Adly Loukil and various open source [contributors](https://github.com/adlyloukil/Eigo-sensei/graphs/contributors) during [Hacktoberfest.](https://hacktoberfest.digitalocean.com)
+Simple Index page about Adly created by **Adly Loukil** and various open source [contributors](https://github.com/adlyloukil/Eigo-sensei/graphs/contributors) during [Hacktoberfest.](https://hacktoberfest.digitalocean.com)
 
 ## Built With
 
@@ -13,10 +13,10 @@ Simple Index page about Adly created by Adly Loukil and various open source [con
 
 ## Future scope
 
-- This website will have an accurate translation in Japanese language.
+- This website will have an accurate translation in _Japanese_ language.
 
-## Influence to Open Source comminity
-- helps to make a first step in contributing on github
+## Influence to Open Source community
+- helps to make a first step in _contributing_ on **github**
 
 ## Preview
 ![adlyloukiljp](https://user-images.githubusercontent.com/22683645/32230856-676cdecc-be97-11e7-8e87-229c205c168f.png)
